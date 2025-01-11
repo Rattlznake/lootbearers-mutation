@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+    addonversion        "1.4"
+
+    addontitle          "Loot-Bearing Zombies Mutation"
+    addonauthor         "Rattlznake"
+    addonDescription    "Naturally spawning loot is limited. Zombies have a chance to drop better loot!"
+
+    addonContent_Script 1
+}

@@ -1,0 +1,16 @@
+"lootbearers"
+{
+    "base" "coop"
+    "maxplayers" "4"
+    
+    "DisplayTitle" "Loot-Bearing Zombies"
+    "Description" "Naturally spawning loot is limited. Zombies have a chance to drop better loot!"
+    "ShortDescription" "Zombies have a chance to drop loot"
+    "Author" "Rattlznake"
+    "Image" "maps/any"
+
+    convar 
+    {
+        // set convars here
+    }
+}
